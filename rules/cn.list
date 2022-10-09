@@ -2,7 +2,7 @@
 USER-AGENT,MApi*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
-URL-REGEX,.^http://.+/mmtls/.+
+URL-REGEX,^https?://.+/mmtls/.+
 DOMAIN-SUFFIX,cn
 # Ali
 DOMAIN-KEYWORD,alipay
