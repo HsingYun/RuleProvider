@@ -4,6 +4,11 @@ USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
 URL-REGEX,^https?://.+/mmtls/.+
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,toutiaoapi.com
+DOMAIN-SUFFIX,toutiaostatic.com
+DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,futunn.com
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,alibaba
