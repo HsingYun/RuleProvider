@@ -7,7 +7,9 @@ DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,toutiaoapi.com
 DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,toutiaovod.com
 DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,futunn.com
 # Ali
 DOMAIN-KEYWORD,alipay
